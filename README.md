@@ -1,4 +1,4 @@
-# customer-list-app-frontend
+# nestjs-customer-frontend
 
 ## Project setup
 ```
