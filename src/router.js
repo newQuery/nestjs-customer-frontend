@@ -1,8 +1,8 @@
 import Vue from 'vue'
 import Router from 'vue-router'
-import HomeComponent from '@/views/Home';
-import EditComponent from '@/components/customer/Edit';
-import CreateComponent from '@/components/customer/Create';
+import HomeComponent from '@/views/VCustomerList/VCustomerList.vue';
+import EditComponent from '@/components/CCustomerUpdate/CCustomerUpdate.vue';
+import CreateComponent from '@/components/CCustomerCreate/CCustomerCreate.vue';
 
 Vue.use(Router)
 export default new Router({
