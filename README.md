@@ -30,5 +30,5 @@ npm run lint
 npm run test:unit
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Configuration
+In src/helpers.js set baseURL to the customer-list-app-backend endpoint
